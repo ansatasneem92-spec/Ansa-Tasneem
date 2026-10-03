@@ -1,12 +1,12 @@
 # Ansa Tasneem
 
 ## About Me
-I am a Software Engineering student passionate about learning web development, software design, and version control systems.
+I am a Data Science student currently in my 3rd semester, passionate about machine learning, statistical modeling, data analysis, and software development.
 
 ## Skills & Technologies
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, C++, JavaScript |
+| **Languages** | Python, C# |
 | **Tools** | Git, GitHub, VS Code |
 
 ## Featured Projects
